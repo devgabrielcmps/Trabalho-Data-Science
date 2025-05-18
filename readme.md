@@ -85,13 +85,12 @@ A seguir, algumas perguntas guiadoras da análise realizada:
 
 ### Objetivo da Predição
 
-Prever a média de gols do campeonato brasileiro em 2025 em características como:
+Prever a média de gols do campeonato brasileiro em 2025 usando características como:
 
 - Número de vitórias
 - Número de empates
 - Número de derrotas
-- Gols marcados em casa
-- Gols marcados fora de casa
+- Média de gols dos anos anteriores
 
 Com base no desempenho dos times em edições anteriores do campeonato, foi criado um modelo simples capaz de estimar a média de gols do campeonato em 2025. Foram usados métodos de previsão em python(Scikit-learn).Essa etapa demonstra como a inteligência artificial pode ajudar a entender padrões e fazer previsões a partir de dados históricos.
 ---
