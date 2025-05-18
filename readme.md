@@ -4,7 +4,7 @@
 
 ## Visão Geral
 
-Este projeto tem como objetivo realizar uma análise aprofundada do Campeonato Brasileiro de Futebol, abrangendo os dados de 2003 a 2024. Além disso, uma parte do projeto é dedicada à aplicação de técnicas de aprendizado de máquina para prever o número de gols de um time com base em seu desempenho histórico. A ideia é unir duas paixões pessoais — futebol e ciência de dados — e aplicar os conceitos estudados na disciplina **Sistemas Inteligentes** de maneira prática e com significado real.
+Este projeto tem como objetivo realizar uma análise aprofundada do Campeonato Brasileiro de Futebol, abrangendo os dados de 2003 a 2024. Além disso, uma parte do projeto é dedicada à aplicação de técnicas de aprendizado de máquina para prever a media de gols ao final do campeonato com base em seu desempenho histórico. A ideia é unir duas paixões pessoais — futebol e ciência de dados — e aplicar os conceitos estudados na disciplina **Sistemas Inteligentes** de maneira prática e com significado real.
 
 ## Objetivo
 
