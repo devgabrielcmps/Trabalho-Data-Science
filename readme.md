@@ -11,7 +11,7 @@ Este projeto tem como objetivo realizar uma análise aprofundada do Campeonato B
 O projeto tem dois grandes objetivos:
 
 1. **Análise de Dados**: Identificar padrões, comportamentos e estatísticas relevantes no Campeonato Brasileiro.
-2. **Predição com Machine Learning**: Utilizar algoritmos supervisionados para prever a média de gols de um time com base em características históricas.
+2. **Predição com Machine Learning**: Utilizar algoritmos supervisionados para prever a média de gols ao fim do campeonato com base em características históricas.
 
 ## Ferramentas Utilizadas
 
