@@ -85,7 +85,7 @@ A seguir, algumas perguntas guiadoras da análise realizada:
 
 ### Objetivo da Predição
 
-Prever a média de gols de um time com base em características como:
+Prever a média de gols do campeonato brasileiro em 2025 em características como:
 
 - Número de vitórias
 - Número de empates
